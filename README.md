@@ -3,7 +3,13 @@
 ![Github Thumbnail](img/github-thumbnail.jpg)
 
 - 🌱 I am currently learning to build **SaaS** from scratch by implementing **Microservices Architecture.**
-- 📫 How to reach me: [**Muhammad Rivaldhi**](https://www.linkedin.com/in/muhammad-rivaldhi/)
+
+
+## 📫 Get to know more about me
+![https://www.linkedin.com/in/muhammad-rivaldhi/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://instagram.com/muhammadrivaldhi/](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)
+![https://mhmmdrivaldhi-dev.vercel.app/](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ## Favourite Weapons ⚔
 
@@ -29,5 +35,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-
